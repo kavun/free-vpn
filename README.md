@@ -10,7 +10,7 @@ A list of free and trustworthy VPN services. Requirements:
 - [Betternet](https://www.betternet.co/)
 - [Unseen Online](https://www.unseen.online/) | Android only
 
-### No GUI
+#### No GUI
 
 - [FreeVPN.ninja](https://freevpn.ninja/)
 
