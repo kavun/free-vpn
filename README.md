@@ -24,3 +24,7 @@ A list of free and trustworthy VPN services. Requirements:
 ## Limited Time
 
 - [CyberGhost](https://www.cyberghostvpn.com/en_us) | Free users must wait in queue and be disconnected after 3 hours
+
+## Other Lists
+
+- [That One Privacy Guy's VPN Comparison Chart](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg)
