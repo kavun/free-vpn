@@ -10,6 +10,7 @@ A list of free and trustworthy VPN services. Requirements:
 - [Opera's VPN via Surf Easy, Inc.](https://www.opera.com/computer/features/free-vpn)
 - [Betternet](https://www.betternet.co/)
 - [Spotflux](http://spotflux.com/) | _slow_
+- [Unseen Online](https://www.unseen.online/) | Android only
 
 ## Limited Data
 
