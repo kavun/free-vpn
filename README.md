@@ -7,14 +7,16 @@ A list of free and trustworthy VPN services. Requirements:
 
 ## Unlimited Data
 
-- [Opera's VPN via Surf Easy, Inc.](https://www.opera.com/computer/features/free-vpn)
 - [Betternet](https://www.betternet.co/)
-- [Spotflux](http://spotflux.com/) | _slow_
 - [Unseen Online](https://www.unseen.online/) | Android only
+
+### No GUI
+
+- [FreeVPN.ninja](https://freevpn.ninja/)
 
 ## Limited Data
 
-- [SurfEasy VPN](https://www.surfeasy.com/) | 500MB/mo
+- [SurfEasy VPN](https://www.surfeasy.com/) | 500MB/mo | Opera's built in VPN is from SurfEasy and has unlimited data but is not log-free
 - [PrivateTunnel](https://www.privatetunnel.com/) | 200MB one time allowance
 - [Hotspot Shield](https://www.hotspotshield.com/) | Android 256MB/day, Desktop 750MB/day
 - [TunnelBear](https://www.tunnelbear.com/) | 500MB/mo
