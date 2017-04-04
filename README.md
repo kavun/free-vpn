@@ -13,6 +13,7 @@ A list of free and trustworthy VPN services. Requirements:
 #### No GUI
 
 - [FreeVPN.ninja](https://freevpn.ninja/)
+- [VPNBook](https://www.vpnbook.com/)
 
 ## Limited Data
 
