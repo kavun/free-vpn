@@ -10,6 +10,7 @@ A list of free and trustworthy VPN services. Requirements:
 - [Betternet](https://www.betternet.co/)
 - [Unseen Online](https://www.unseen.online/) | Android only
 - [ZenMate](https://zenmate.com/)
+- [DotVPN](https://dotvpn.com/en/)
 
 #### No GUI
 
