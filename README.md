@@ -16,6 +16,7 @@ A list of free and trustworthy VPN services. Requirements:
 - [FreeVPN.ninja](https://freevpn.ninja/)
 - [VPNBook](https://www.vpnbook.com/)
 - [VPNMe](https://www.vpnme.me/)
+- [SigaVPN](https://sigavpn.com/)
 
 ## Limited Data
 
