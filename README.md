@@ -3,7 +3,7 @@ A list of free and ~~trustworthy~~ use-at-your-own-risk VPN services. Requiremen
 
 - free
 
-# For Turkish Language
+# Other Language
 
 - [Turkish](/README%20Turkish.md)
 
